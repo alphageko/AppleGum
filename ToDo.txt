@@ -1,0 +1,10 @@
+Here go all the ideas and things we want done:
+
+[] Weather system
+[] Wall dynamics
+	[] Wall collide
+[] event on key press
+	[] Switch
+[] Items
+	[] Random Item Pickup
+	[] "coin" style items
